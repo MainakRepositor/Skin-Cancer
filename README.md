@@ -3,7 +3,7 @@
 # <div align="center">Derma Check</div>
 
 ## Link to the hosted app: 
-https://skincancerdetection.streamlit.app/
+https://skincancerdetector.streamlit.app/
 
 
 ### Background On Our Project
